@@ -8,7 +8,7 @@ public class quatroprogram {
         String string = scanner.next();
         System.out.println("podaj pozycje znaku");
         int index = scanner.nextInt();
-        System.out.println("ciag" + string + "zawiera" + string.charAt(index) + "na pozycji" + index);
+        System.out.println("ciag " + string + " " + "zawiera " + string.charAt(index) + " " + "na pozycji " + index);
 
 
     }
