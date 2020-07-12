@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5960f6f-54cb-47b5-bfe0-b23d6022181a" name="Default Changelist" comment="Jakis pierwszy program">
+      <change beforePath="$PROJECT_DIR$/src/SecProg.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1eaA4Nx3C32fxoA3C5YCwkx9TjI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Hello">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecProg" />
+      <module name="My_Project" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;rolollo ds&quot; ssda asdadsasd" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Hello" />
+      <item itemvalue="Application.SecProg" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SecProg" />
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5960f6f-54cb-47b5-bfe0-b23d6022181a" name="Default Changelist" comment="" />
+      <created>1594549137373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594549137373</updated>
+      <workItem from="1594549146074" duration="417000" />
+      <workItem from="1594549875598" duration="339000" />
+      <workItem from="1594550718494" duration="1847000" />
+      <workItem from="1594554107265" duration="1116000" />
+    </task>
+    <task id="LOCAL-00001" summary="Jakis pierwszy program">
+      <created>1594550841039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594550841040</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;tralalolo&quot;&#10;&#10;This reverts commit da5c0bc6">
+      <created>1594554200461</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594554200462</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tres">
+      <created>1594554660713</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594554660713</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Jakis pierwszy program" />
+    <MESSAGE value="Revert &quot;tralalolo&quot;&#10;&#10;This reverts commit da5c0bc6" />
+    <MESSAGE value="tres" />
+    <option name="LAST_COMMIT_MESSAGE" value="tres" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="24" width="740" height="744" key="#Hello" timestamp="1594555122360">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state x="341" y="24" width="740" height="744" key="#Hello/43.24.1323.744@43.24.1323.744" timestamp="1594555122360" />
+    <state x="341" y="24" width="740" height="744" key="#SecProg" timestamp="1594555088830">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state x="341" y="24" width="740" height="744" key="#SecProg/43.24.1323.744@43.24.1323.744" timestamp="1594555088830" />
+    <state x="169" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594552566532">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state x="169" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.24.1323.744@43.24.1323.744" timestamp="1594552566532" />
+    <state x="448" y="187" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594555112904">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state x="448" y="187" key="#com.intellij.ide.util.TreeClassChooserDialog/43.24.1323.744@43.24.1323.744" timestamp="1594555112904" />
+    <state x="183" y="24" width="1041" height="744" key="CommitChangelistDialog2" timestamp="1594554200070">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state x="183" y="24" width="1041" height="744" key="CommitChangelistDialog2/43.24.1323.744@43.24.1323.744" timestamp="1594554200070" />
+    <state x="142" y="96" width="1125" height="573" key="DiffContextDialog" timestamp="1594554498629">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state x="142" y="96" width="1125" height="573" key="DiffContextDialog/43.24.1323.744@43.24.1323.744" timestamp="1594554498629" />
+    <state x="492" y="139" key="FileChooserDialogImpl" timestamp="1594554991328">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state x="492" y="139" key="FileChooserDialogImpl/43.24.1323.744@43.24.1323.744" timestamp="1594554991328" />
+    <state width="1277" height="161" key="GridCell.Tab.0.bottom" timestamp="1594555225606">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state width="1277" height="161" key="GridCell.Tab.0.bottom/43.24.1323.744@43.24.1323.744" timestamp="1594555225606" />
+    <state width="1277" height="161" key="GridCell.Tab.0.center" timestamp="1594555225603">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state width="1277" height="161" key="GridCell.Tab.0.center/43.24.1323.744@43.24.1323.744" timestamp="1594555225603" />
+    <state width="1277" height="161" key="GridCell.Tab.0.left" timestamp="1594555225602">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state width="1277" height="161" key="GridCell.Tab.0.left/43.24.1323.744@43.24.1323.744" timestamp="1594555225602" />
+    <state width="1277" height="161" key="GridCell.Tab.0.right" timestamp="1594555225604">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state width="1277" height="161" key="GridCell.Tab.0.right/43.24.1323.744@43.24.1323.744" timestamp="1594555225604" />
+    <state width="1277" height="161" key="GridCell.Tab.1.bottom" timestamp="1594555225608">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state width="1277" height="161" key="GridCell.Tab.1.bottom/43.24.1323.744@43.24.1323.744" timestamp="1594555225608" />
+    <state width="1277" height="161" key="GridCell.Tab.1.center" timestamp="1594555225607">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state width="1277" height="161" key="GridCell.Tab.1.center/43.24.1323.744@43.24.1323.744" timestamp="1594555225607" />
+    <state width="1277" height="161" key="GridCell.Tab.1.left" timestamp="1594555225607">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state width="1277" height="161" key="GridCell.Tab.1.left/43.24.1323.744@43.24.1323.744" timestamp="1594555225607" />
+    <state width="1277" height="161" key="GridCell.Tab.1.right" timestamp="1594555225608">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state width="1277" height="161" key="GridCell.Tab.1.right/43.24.1323.744@43.24.1323.744" timestamp="1594555225608" />
+    <state x="192" y="24" key="SettingsEditor" timestamp="1594555019979">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state x="192" y="24" key="SettingsEditor/43.24.1323.744@43.24.1323.744" timestamp="1594555019979" />
+    <state x="303" y="119" width="800" height="530" key="Vcs.Push.Dialog.v2" timestamp="1594554666325">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state x="303" y="119" width="800" height="530" key="Vcs.Push.Dialog.v2/43.24.1323.744@43.24.1323.744" timestamp="1594554666325" />
+    <state x="480" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594554498565">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state x="480" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/43.24.1323.744@43.24.1323.744" timestamp="1594554498565" />
+  </component>
+</project>
